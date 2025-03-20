@@ -15,9 +15,7 @@ To program remotes for Land Rover / Mini / Rover, you need 3 sets of code which 
 
 #### To calculate from barcode label, 
  Click on 'EWS Barcode', Enter the 35 characters, including the * symbols \
-For example: *NAD644DAD644CFFN**FFFFFFFF529BB2V*.
-
-
+Example:
 ```bash
 Here are the codes for Barcode *NAD644DAD644CFFN**FFFFFFFF529BB2V*
 -----------------------------------
